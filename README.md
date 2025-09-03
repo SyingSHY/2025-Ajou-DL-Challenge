@@ -141,5 +141,5 @@ InternVL 3.5 8B : [🤗 HuggingFace](https://huggingface.co/OpenGVLab/InternVL3_
 
 ## 실행 시간
 
-- 이미지 데이터 전처리 : 약 7시간
+- 이미지 데이터 전처리 : 약 0.5시간
 - 테스트 데이터에 대한 Output 생성 : 약 3시간
